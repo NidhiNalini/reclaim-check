@@ -2,7 +2,7 @@
 
 **A data and satellite screening system for orphan well reclamation in Central Alberta.**
 
-Independent project by Nidhi Nalini, 2026.
+Independent project
 
 When an Alberta oil and gas company goes bankrupt, its wells become "orphans" and the
 Orphan Well Association (OWA) takes over the cleanup. After a well is sealed, the land around it
